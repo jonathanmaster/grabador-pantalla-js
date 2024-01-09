@@ -1,0 +1,11 @@
+body {
+  height: 100vh;
+  background-color: #111;
+  display: grid;
+  place-content: center;
+  color: #ffff;
+}
+
+button {
+  font-size: 24px;
+}
